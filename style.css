@@ -10,3 +10,7 @@ header {
   min-height: 500px;
   border: dashed black;
 }
+.footer {
+  min-height: 90px;
+  border: 2px dashed rgb(1, 1, 61);
+}

@@ -4,13 +4,21 @@ header {
 }
 .navbar {
   min-height: 50px;
-  border: dashed black;
+  border: dashed red;
 }
 .section {
   min-height: 500px;
-  border: dashed black;
+  border: dashed purple;
 }
-.footer {
+footer {
   min-height: 90px;
-  border: 2px dashed rgb(1, 1, 61);
+  border: 2px dashed green;
+}
+.jumbotron {
+  min-height: 70px;
+  border: 2px dashed orangered;
+}
+.col {
+  min-height: 70px;
+  border: 2px dashed orangered;
 }

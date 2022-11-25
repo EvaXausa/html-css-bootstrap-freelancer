@@ -16,3 +16,6 @@ section {
 .container {
   border: 2px dashed red;
 }
+form {
+  min-height: 200px;
+}
